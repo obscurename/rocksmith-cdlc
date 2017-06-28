@@ -1,0 +1,28 @@
+#TITLE:The HIV Song
+#ARTIST:Ween
+#GENRE:Alternative Rock
+#MP3:The HIV Song.mp3
+#BPM:363.35
+#GAP:9980
+: 0 13 0 AIDs.
+- 135
+: 258 20 0 AIDs.
+- 390
+: 503 28 0 HIV.
+- 652
+: 774 20 0 AIDs.
+- 907
+: 1021 26 0 HIV.
+- 1297
+: 1548 19 0 AIDs.
+- 1679
+: 1792 30 0 HIV.
+- 1946
+: 2070 17 0 AIDs.
+- 2197
+: 2308 30 0 HIV.
+- 2462
+: 2587 17 0 AIDs.
+- 2847
+: 3000 22 0 HIV.
+E

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- EOF v1.8RC10 (r1337) -->
+<vocals count="11">
+  <vocal time="9.980" note="254" length="0.537" lyric="AIDs.+"/>
+  <vocal time="20.631" note="254" length="0.826" lyric="AIDs.+"/>
+  <vocal time="30.745" note="254" length="1.156" lyric="HIV.+"/>
+  <vocal time="41.933" note="254" length="0.826" lyric="AIDs.+"/>
+  <vocal time="52.129" note="254" length="1.073" lyric="HIV.+"/>
+  <vocal time="73.885" note="254" length="0.784" lyric="AIDs.+"/>
+  <vocal time="83.958" note="254" length="1.238" lyric="HIV.+"/>
+  <vocal time="95.435" note="254" length="0.702" lyric="AIDs.+"/>
+  <vocal time="105.260" note="254" length="1.238" lyric="HIV.+"/>
+  <vocal time="116.778" note="254" length="0.702" lyric="AIDs.+"/>
+  <vocal time="133.828" note="254" length="0.908" lyric="HIV.+"/>
+</vocals>
