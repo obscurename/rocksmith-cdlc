@@ -1,0 +1,130 @@
+#TITLE:Drifter in the Dark
+#ARTIST:Ween
+#GENRE:Alternative Rock
+#MP3:Drifter in the Dark.mp3
+#BPM:333.74
+#GAP:10402
+: 0 8 0 Do
+: 10 3 0  you
+: 14 13 0  ever
+: 30 10 0  walk
+: 42 5 0  a
+: 49 24 0 lone?
+- 101
+: 129 8 0 Like
+: 139 2 0  a
+: 144 9 0  drift
+: 155 11 0 er
+: 168 2 0  in
+: 172 6 0  the
+: 179 17 0  dark
+- 225
+: 254 11 0 Seek
+: 268 4 0 ing
+: 273 10 0  out
+: 285 10 0  what
+: 296 3 0  is
+: 301 5 0 n't
+: 308 12 0  there
+- 350
+: 381 9 0 Look
+: 392 3 0 ing
+: 397 21 0  only
+: 420 2 0  for
+: 424 5 0  a
+: 431 13 0  spark
+- 445
+: 446 8 0 From
+: 456 2 0  a
+: 461 10 0  girl
+: 472 7 0  who's
+: 481 6 0  all
+: 489 2 0  a
+: 492 25 0 lone
+- 546
+: 575 6 0 May
+: 584 4 0 be
+: 589 8 0  she's
+: 599 11 0  a'
+: 612 3 0  drift
+: 616 7 0 in'
+: 625 24 0  too
+- 673
+: 698 9 0 Like
+: 709 2 0  a
+: 713 8 0  shad
+: 722 10 0 ow
+: 734 3 0  in
+: 738 6 0  the
+: 746 15 0  night
+- 792
+: 824 8 0 Wait
+: 834 3 0 ing
+: 839 8 0  just
+: 848 12 0  to
+: 862 2 0  meet
+: 866 2 0  with
+: 870 12 0  you
+- 883
+: 884 2 0 And
+: 888 8 0  then
+: 898 3 0  per
+: 903 11 0 haps
+: 915 8 0  in
+: 924 7 0  love
+: 929 15 0  you'll
+: 946 19 0  stay
+- 988
+: 1012 4 0 Or
+: 1017 8 0  fall
+: 1027 2 0  and
+: 1032 7 0  go
+: 1041 12 0  your
+: 1055 10 0  separate
+: 1067 21 0  ways
+- 1114
+: 1141 14 0 Still
+: 1158 14 0  search
+: 1173 6 0 in'
+: 1181 3 0  for
+: 1185 6 0  a
+: 1193 14 0  spark
+- 1237
+: 1268 9 0 Like
+: 1278 2 0  a
+: 1283 8 0  drift
+: 1293 12 0 er
+: 1307 3 0  in
+: 1311 2 0  the
+: 1315 17 0  dark
+- 2258
+: 2235 10 0 Do
+: 2247 4 0  you
+: 2252 13 0  ever
+: 2267 9 0  walk
+: 2279 3 0  a
+: 2285 28 0 lone?
+- 2338
+: 2364 9 0 Like
+: 2375 4 0  a
+: 2381 7 0  drift
+: 2389 10 0 er
+: 2401 2 0  in
+: 2405 6 0  the
+: 2413 22 0  dark
+- 2464
+: 2493 10 0 Seek
+: 2505 2 0 ing
+: 2510 9 0  out
+: 2520 10 0  what
+: 2533 3 0  is
+: 2537 4 0 n't
+: 2543 15 0  there
+- 2590
+: 2622 10 0 Look
+: 2634 3 0 ing
+: 2639 18 0  only
+: 2659 5 0  for
+: 2666 4 0  a
+: 2672 16 0  spark
+E
